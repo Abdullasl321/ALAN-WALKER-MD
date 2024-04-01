@@ -31,7 +31,7 @@ function connect(conn, PORT) {
   });
 
   app.get('/', async (req, res) => {
-    res.json("ALAN;WALKER-MD is running");
+    res.json("CYBER-THEEKSHANA-MD is running");
   });
 
   server.listen(PORT, async () => {
